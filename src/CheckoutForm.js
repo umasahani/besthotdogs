@@ -27,6 +27,7 @@ export default function CheckoutForm() {
         fontSize: "16px",
         "::placeholder": {
           color: "#32325d"
+          
         }
       },
       invalid: {

@@ -34,7 +34,7 @@ class App extends Component {
        <header className="App-header">
          <img src={hotdog} className="App-logo" alt="logo" />
          <p>
-           Uma's Hotdog shop
+           Uma's Hotdog Shop
          </p>
          <form onSubmit={this.handleSubmit}>
            <label htmlFor="name">Buy a hotdog </label>
